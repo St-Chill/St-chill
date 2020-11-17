@@ -1,0 +1,28 @@
+body{
+    color: rgb(19, 18, 18);
+    text-align: center;
+    background-color: rgb(94, 186, 214);
+    background-image: url("backdrop.jpg");
+    background-repeat: no-repeat
+    background-size: 300px 100px; 
+    font-size: 20px;
+}
+h1{
+    color: h2;right;
+}
+
+topnav{ color:red}
+
+h2{
+    color: rgb(226, 72, 72);right;
+}
+    
+}
+    margin-left: 20px;
+    text-align: center;
+    background-color: rgba(112, 112, 112, 0.733);
+    font-size: 60px;
+}
+p2{ 
+    color: red;
+    text-align: :right
